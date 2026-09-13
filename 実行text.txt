@@ -1,0 +1,9 @@
+ウィンドウ1: python agent_academic.py
+ウィンドウ2: python agent_business.py
+
+
+
+ウィンドウ3: python monitor.py
+
+ウィンドウ1: python agent_academic_n2.py
+ウィンドウ2: python agent_business_n2.py
